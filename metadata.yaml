@@ -1,6 +1,9 @@
 _repo: The-Art-of-Preserving-All-Kinds-of-Animal-and-Vegetable-Substances-for-Several-Years-2nd-ed-A__52551
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: L'art de conserver. English
+covers:
+- cover_type: archival
+  image_path: 52551-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Appert, Nicolas
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43578
     wikipedia: https://en.wikipedia.org/wiki/Nicolas_Appert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52551#The-Art-of-Preserving-All-Kinds-of-Animal-and-Vegetable-Substances-for-Several-Years-2nd-ed-A_
 gutenberg_issued: '2016-07-10'
 gutenberg_type: Text
 identifiers:
